@@ -1,2 +1,3 @@
-# Machine-Learning-Algos
-Various machine learning algorithms implemented in the course Machine, Data and Learning
+# Machine-Learning
+
+Repository contains assignments done as part of the MDL course at iiit-h.
